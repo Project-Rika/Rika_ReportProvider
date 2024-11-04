@@ -27,4 +27,9 @@
   <ItemGroup>
     <Using Include="System.Threading.ExecutionContext" Alias="ExecutionContext" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Functions\" />
+    <Folder Include="Models\" />
+    <Folder Include="SqlQueries\" />
+  </ItemGroup>
 </Project>
